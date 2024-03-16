@@ -17,9 +17,9 @@ Hello! I'm Amar Kumar, a frontend web developer hailing from Bihar, India. I hav
 
 ## Contact Information
 - **Location**: Bihar, India
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn**: [linkedin.com/in/YourProfile](https://www.linkedin.com/in/YourProfile)
-- **GitHub**: [github.com/YourUsername](https://github.com/YourUsername)
+- **Email**: [upsingh6430@gmail.com](mailto:upsingh6430@gmail.com)
+- **LinkedIn**: [linkedin.com/in/amar-kumar-90a838251/](https://www.linkedin.com/in/amar-kumar-90a838251/)
+- **GitHub**: [github.com/amar-webdev](https://github.com/amar-webdev)
 
 ## Let's Connect!
 If you're looking for a dedicated frontend developer to bring your web projects to life, feel free to reach out. I'm always eager to collaborate and contribute to exciting ventures.
